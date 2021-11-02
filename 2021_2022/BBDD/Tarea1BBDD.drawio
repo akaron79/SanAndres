@@ -1,1 +1,446 @@
-<mxfile host="app.diagrams.net" modified="2021-11-02T14:48:05.456Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="ESUFGwVLXFqSthc5ih65" version="15.5.4" type="github"><diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">7Vttb5s6GP01SHcfVoEJSfuxYckmLbmr2m77eOWCA9YIRsZ526+fDTaEOGlhd2m8JlLUwMMTg59zfGyfJpbrz9cfKcziKQlRYgE7XFvuBwsABwCXv4nIpowMbgZlIKI4lEl14AH/RDJoy+gChyhvJDJCEoazZjAgaYoC1ohBSsmqmTYjSfOuGYyQFngIYKJHv+OQxWX02rPr+CeEo1jd2bHllTlUyTKQxzAkq0YIrdmYpEw+4h2ic5iilPErU0h/IGp5o5gx0dNbC4z5ayayryJCogTBDOdXAZnzcJDzlPEMznEiyrzV0FA2xG/njizXp4Sw8mi+9lEisFIwlM80PnC1qgMV7bb4gP9+uZn8sFn6aeV+Y9NpdDd4ei9bWcJkIesra8M2quAo5PWXp/xWmG3uUQIZJumovjJEaXgr0OVJo/ufiJJHMoUp7/wwZ5Cy+hpJZfoY88dzPzgqRZ7b/FzvmnzOnCxogJ7pD+hJSkIaIfZMYl8CHjbYJiv3EZE5YnTDE1Y1xyomxdv8UkFaFGXZZCmUTIqqBqt73BFcEEsOTLcn21HDUlFSNVF2XX5qG+adhno7DfV3GypLozXED7Y6XocKFnVhFHhjlHJbMsoZGEapnt1kgnP9u5TqNxsCtveqlNIZ9YWGiOYar7iiZ+KQwaeCQQUJ5BTmChbwSYlBnHL9LVkSkCSBWY6L9DIS4yScwA1ZMNWQOhvO8BqF9+UMJnI5/ya8sVxSTMwFitXiMkxwlPLjgFNO3HFIUc6fZQJzJjMOknKJKEPrZ1mksPF2QFbDfYtlwNvHMtc+TKgGgl3hcl8WAAUU7zrDMLnnCwWYRgVmTUhEXUNKskc1+kQgE0RDdLRE5VRdFJ8PdZ8kRCCbloJQpBWd84b8xbvr21ee5fEH8Pm5U5/zl0inzCdpzijEBRyIA7VCAqwhI5m8T4Jm6jGoLKY4fiKM8Zn/EKzP0vplrCW2bktoj4ZsT0P27nMXbAnv6ywpVDvGYYjSckiKdSKs8d4D5d76VzXfBWN3ILbEw22NxxYA7mvW39PqT4QQ/sc/5APr1i5V+98vj+Lv18nEqpa6JsGjdLHMHeYZDHAaTcpP9nfw846B39o6OJ7Aa+LZP2el3L8q+zNK2T+1Ug40ZMefnS7gvtJYbAlAvzUAp5LGa63gwSLnfS7VEeyRRuOweFEX/zhYpujgzUUHj6ODN6fWQeUa/ia0ZqngTevyn0oFHd3PK1eIIWSIx+XbWchge7RMkUFH3zk/xDibF6J18To0rwNct5S343kdjr4lPqOpq8Pm2mm/OzPF7XD07fZbsjsq6ho8nekb5FwK4sXz6AqiMbOcvjc+I8nssNzsLpkntz0cfRv+V/seFVcN1kh981yZwmdle3TAyhQpBP9vd3yRQoOdD6BvxQ0cfC3rXxHVXB1U5d23VjxD96MDYsaooW5/+NLDv9gf1tZXOzp/1cM+GmQX+6PlcPz77A/wtu0PYL79AXT746V/ap6T99EBQWOmuIv3cSy9PLn3AXTvw8DB2Lb+5hsfQDc+KnVM4Vys9IMY0n88+93ZLPpNskD4af3jlvKr4PUvktzRLw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-02T15:57:29.136Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="-f5ZSBnmCxjXWXLdNrQi" version="15.5.4" type="github" pages="2">
+  <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
+    <mxGraphModel dx="666" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-2" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div class=&quot;OutlineElement Ltr  BCX0 SCXP128183439&quot; style=&quot;margin: 0px; padding: 0px; overflow: visible; cursor: text; clear: both; position: relative; direction: ltr; color: rgb(26, 153, 136); font-family: arial; font-size: 8.40404px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(237, 235, 233);&quot;&gt;&lt;p class=&quot;Paragraph  BCX0 SCXP128183439&quot; lang=&quot;EN-US&quot; style=&quot;margin: 0px ; padding: 0px ; overflow-wrap: break-word ; font-weight: normal ; font-style: normal ; vertical-align: baseline ; background-color: transparent ; text-align: left ; text-indent: 0px&quot;&gt;&lt;span class=&quot;TextRun  BCX0 SCXP128183439&quot; lang=&quot;ES&quot; style=&quot;margin: 0px ; padding: 0px 0px 0.139394px ; font-variant: normal ; color: rgb(89 , 89 , 89) ; font-weight: normal ; font-style: normal ; text-decoration: none ; font-size: 10.5051px ; font-family: &amp;quot;lato&amp;quot; , &amp;quot;lato_embeddedfont&amp;quot; , &amp;quot;lato_msfontservice&amp;quot; , sans-serif ; letter-spacing: 0px ; line-height: 14px ; vertical-align: 0.139394px&quot;&gt;&lt;span class=&quot;NormalTextRun  BCX0 SCXP128183439&quot; style=&quot;margin: 0px ; padding: 0px ; vertical-align: -0.139394px ; line-height: 0px ; position: relative&quot;&gt;Un centro de enseñanza está organizado de la siguiente forma:&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;EOP  BCX0 SCXP128183439&quot; style=&quot;margin: 0px ; padding: 0px ; font-size: 10.5051px ; line-height: 0px ; font-family: &amp;quot;lato&amp;quot; , &amp;quot;lato_embeddedfont&amp;quot; , &amp;quot;lato_msfontservice&amp;quot; , sans-serif&quot;&gt;​&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;ul class=&quot;BulletListStyle1  BCX0 SCXP128183439&quot; style=&quot;margin: 0px; padding: 0px; overflow: visible; cursor: text; list-style-type: disc; font-family: verdana; color: rgb(26, 153, 136); font-size: 8.40404px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(237, 235, 233);&quot;&gt;&lt;li class=&quot;OutlineElement Ltr  BCX0 SCXP128183439&quot; style=&quot;margin: 0px 0px 0px 29.0909px ; padding: 0px ; overflow: visible ; cursor: text ; clear: both ; position: relative ; direction: ltr ; vertical-align: baseline ; font-family: &amp;quot;arial&amp;quot; ; font-size: 8.40404px&quot;&gt;&lt;p class=&quot;Paragraph  BCX0 SCXP128183439&quot; lang=&quot;EN-US&quot; style=&quot;margin: 0px ; padding: 0px ; overflow-wrap: break-word ; font-weight: normal ; font-style: normal ; vertical-align: baseline ; background-color: transparent ; text-align: left ; text-indent: 0px&quot;&gt;&lt;span class=&quot;TextRun  BCX0 SCXP128183439&quot; lang=&quot;ES&quot; style=&quot;margin: 0px ; padding: 0px 0px 0.139394px ; font-variant: normal ; color: rgb(89 , 89 , 89) ; font-weight: normal ; font-style: normal ; text-decoration: none ; font-size: 10.5051px ; font-family: &amp;quot;lato&amp;quot; , &amp;quot;lato_embeddedfont&amp;quot; , &amp;quot;lato_msfontservice&amp;quot; , sans-serif ; letter-spacing: 0px ; line-height: 14px ; vertical-align: 0.139394px&quot;&gt;&lt;span class=&quot;NormalTextRun  BCX0 SCXP128183439&quot; style=&quot;margin: 0px ; padding: 0px ; vertical-align: -0.139394px ; line-height: 0px ; position: relative&quot;&gt;Existen diferentes departamentos. Cada uno de ellos tiene un nombre diferente.&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;EOP  BCX0 SCXP128183439&quot; style=&quot;margin: 0px ; padding: 0px ; font-size: 10.5051px ; line-height: 0px ; font-family: &amp;quot;lato&amp;quot; , &amp;quot;lato_embeddedfont&amp;quot; , &amp;quot;lato_msfontservice&amp;quot; , sans-serif&quot;&gt;​&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li class=&quot;OutlineElement Ltr  BCX0 SCXP128183439&quot; style=&quot;margin: 0px 0px 0px 29.0909px ; padding: 0px ; overflow: visible ; cursor: text ; clear: both ; position: relative ; direction: ltr ; vertical-align: baseline ; font-family: &amp;quot;arial&amp;quot; ; font-size: 8.40404px&quot;&gt;&lt;p class=&quot;Paragraph  BCX0 SCXP128183439&quot; lang=&quot;EN-US&quot; style=&quot;margin: 0px ; padding: 0px ; overflow-wrap: break-word ; font-weight: normal ; font-style: normal ; vertical-align: baseline ; background-color: transparent ; text-align: left ; text-indent: 0px&quot;&gt;&lt;span class=&quot;TextRun  BCX0 SCXP128183439&quot; lang=&quot;ES&quot; style=&quot;margin: 0px ; padding: 0px 0px 0.139394px ; font-variant: normal ; color: rgb(89 , 89 , 89) ; font-weight: normal ; font-style: normal ; text-decoration: none ; font-size: 10.5051px ; font-family: &amp;quot;lato&amp;quot; , &amp;quot;lato_embeddedfont&amp;quot; , &amp;quot;lato_msfontservice&amp;quot; , sans-serif ; letter-spacing: 0px ; line-height: 14px ; vertical-align: 0.139394px&quot;&gt;&lt;span class=&quot;NormalTextRun  BCX0 SCXP128183439&quot; style=&quot;margin: 0px ; padding: 0px ; vertical-align: -0.139394px ; line-height: 0px ; position: relative&quot;&gt;Se imparten diversas materias. Cada materia es impartida por un determinado departamento.&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;EOP  BCX0 SCXP128183439&quot; style=&quot;margin: 0px ; padding: 0px ; font-size: 10.5051px ; line-height: 0px ; font-family: &amp;quot;lato&amp;quot; , &amp;quot;lato_embeddedfont&amp;quot; , &amp;quot;lato_msfontservice&amp;quot; , sans-serif&quot;&gt;​&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li class=&quot;OutlineElement Ltr  BCX0 SCXP128183439&quot; style=&quot;margin: 0px 0px 0px 29.0909px ; padding: 0px ; overflow: visible ; cursor: text ; clear: both ; position: relative ; direction: ltr ; vertical-align: baseline ; font-family: &amp;quot;arial&amp;quot; ; font-size: 8.40404px&quot;&gt;&lt;p class=&quot;Paragraph  BCX0 SCXP128183439&quot; lang=&quot;EN-US&quot; style=&quot;margin: 0px ; padding: 0px ; overflow-wrap: break-word ; font-weight: normal ; font-style: normal ; vertical-align: baseline ; background-color: transparent ; text-align: left ; text-indent: 0px&quot;&gt;&lt;span class=&quot;TextRun  BCX0 SCXP128183439&quot; lang=&quot;ES&quot; style=&quot;margin: 0px ; padding: 0px 0px 0.139394px ; font-variant: normal ; color: rgb(89 , 89 , 89) ; font-weight: normal ; font-style: normal ; text-decoration: none ; font-size: 10.5051px ; font-family: &amp;quot;lato&amp;quot; , &amp;quot;lato_embeddedfont&amp;quot; , &amp;quot;lato_msfontservice&amp;quot; , sans-serif ; letter-spacing: 0px ; line-height: 14px ; vertical-align: 0.139394px&quot;&gt;&lt;span class=&quot;NormalTextRun  BCX0 SCXP128183439&quot; style=&quot;margin: 0px ; padding: 0px ; vertical-align: -0.139394px ; line-height: 0px ; position: relative&quot;&gt;De cada departamento interesa saber: su código, su nombre y las materias que imparte.&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;EOP  BCX0 SCXP128183439&quot; style=&quot;margin: 0px ; padding: 0px ; font-size: 10.5051px ; line-height: 0px ; font-family: &amp;quot;lato&amp;quot; , &amp;quot;lato_embeddedfont&amp;quot; , &amp;quot;lato_msfontservice&amp;quot; , sans-serif&quot;&gt;​&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li class=&quot;OutlineElement Ltr  BCX0 SCXP128183439&quot; style=&quot;margin: 0px 0px 0px 29.0909px ; padding: 0px ; overflow: visible ; cursor: text ; clear: both ; position: relative ; direction: ltr ; vertical-align: baseline ; font-family: &amp;quot;arial&amp;quot; ; font-size: 8.40404px&quot;&gt;&lt;p class=&quot;Paragraph  BCX0 SCXP128183439&quot; lang=&quot;EN-US&quot; style=&quot;margin: 0px ; padding: 0px ; overflow-wrap: break-word ; font-weight: normal ; font-style: normal ; vertical-align: baseline ; background-color: transparent ; text-align: left ; text-indent: 0px&quot;&gt;&lt;span class=&quot;TextRun  BCX0 SCXP128183439&quot; lang=&quot;ES&quot; style=&quot;margin: 0px ; padding: 0px 0px 0.139394px ; font-variant: normal ; color: rgb(89 , 89 , 89) ; font-weight: normal ; font-style: normal ; text-decoration: none ; font-size: 10.5051px ; font-family: &amp;quot;lato&amp;quot; , &amp;quot;lato_embeddedfont&amp;quot; , &amp;quot;lato_msfontservice&amp;quot; , sans-serif ; letter-spacing: 0px ; line-height: 14px ; vertical-align: 0.139394px&quot;&gt;&lt;span class=&quot;NormalTextRun  BCX0 SCXP128183439&quot; style=&quot;margin: 0px ; padding: 0px ; vertical-align: -0.139394px ; line-height: 0px ; position: relative&quot;&gt;De cada materia interesa saber: su código, su nombre (puede haber nombres repetidos), el&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;TextRun  BCX0 SCXP128183439&quot; lang=&quot;ES&quot; style=&quot;margin: 0px ; padding: 0px 0px 0.139394px ; font-variant: normal ; color: rgb(89 , 89 , 89) ; font-weight: normal ; font-style: normal ; text-decoration: none ; font-size: 10.5051px ; font-family: &amp;quot;lato&amp;quot; , &amp;quot;lato_embeddedfont&amp;quot; , &amp;quot;lato_msfontservice&amp;quot; , sans-serif ; letter-spacing: 0px ; line-height: 14px ; vertical-align: 0.139394px&quot;&gt;&lt;span class=&quot;NormalTextRun  BCX0 SCXP128183439&quot; style=&quot;margin: 0px ; padding: 0px ; vertical-align: -0.139394px ; line-height: 0px ; position: relative&quot;&gt;departamento que la imparte y qué alumnos se han examinado alguna vez de ella.&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;EOP  BCX0 SCXP128183439&quot; style=&quot;margin: 0px ; padding: 0px ; font-size: 10.5051px ; line-height: 0px ; font-family: &amp;quot;lato&amp;quot; , &amp;quot;lato_embeddedfont&amp;quot; , &amp;quot;lato_msfontservice&amp;quot; , sans-serif&quot;&gt;​&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li class=&quot;OutlineElement Ltr  BCX0 SCXP128183439&quot; style=&quot;margin: 0px 0px 0px 29.0909px ; padding: 0px ; overflow: visible ; cursor: text ; clear: both ; position: relative ; direction: ltr ; vertical-align: baseline ; font-family: &amp;quot;arial&amp;quot; ; font-size: 8.40404px&quot;&gt;&lt;p class=&quot;Paragraph  BCX0 SCXP128183439&quot; lang=&quot;EN-US&quot; style=&quot;margin: 0px ; padding: 0px ; overflow-wrap: break-word ; font-weight: normal ; font-style: normal ; vertical-align: baseline ; background-color: transparent ; text-align: left ; text-indent: 0px&quot;&gt;&lt;span class=&quot;TextRun  BCX0 SCXP128183439&quot; lang=&quot;ES&quot; style=&quot;margin: 0px ; padding: 0px 0px 0.139394px ; font-variant: normal ; color: rgb(89 , 89 , 89) ; font-weight: normal ; font-style: normal ; text-decoration: none ; font-size: 10.5051px ; font-family: &amp;quot;lato&amp;quot; , &amp;quot;lato_embeddedfont&amp;quot; , &amp;quot;lato_msfontservice&amp;quot; , sans-serif ; letter-spacing: 0px ; line-height: 14px ; vertical-align: 0.139394px&quot;&gt;&lt;span class=&quot;NormalTextRun  BCX0 SCXP128183439&quot; style=&quot;margin: 0px ; padding: 0px ; vertical-align: -0.139394px ; line-height: 0px ; position: relative&quot;&gt;Los alumnos se identifican mediante su número de matrícula.&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;EOP  BCX0 SCXP128183439&quot; style=&quot;margin: 0px ; padding: 0px ; font-size: 10.5051px ; line-height: 0px ; font-family: &amp;quot;lato&amp;quot; , &amp;quot;lato_embeddedfont&amp;quot; , &amp;quot;lato_msfontservice&amp;quot; , sans-serif&quot;&gt;​&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li class=&quot;OutlineElement Ltr  BCX0 SCXP128183439&quot; style=&quot;margin: 0px 0px 0px 29.0909px ; padding: 0px ; overflow: visible ; cursor: text ; clear: both ; position: relative ; direction: ltr ; vertical-align: baseline ; font-family: &amp;quot;arial&amp;quot; ; font-size: 8.40404px&quot;&gt;&lt;p class=&quot;Paragraph  BCX0 SCXP128183439&quot; lang=&quot;EN-US&quot; style=&quot;margin: 0px ; padding: 0px ; overflow-wrap: break-word ; font-weight: normal ; font-style: normal ; vertical-align: baseline ; background-color: transparent ; text-align: left ; text-indent: 0px&quot;&gt;&lt;span class=&quot;TextRun  BCX0 SCXP128183439&quot; lang=&quot;ES&quot; style=&quot;margin: 0px ; padding: 0px 0px 0.139394px ; font-variant: normal ; color: rgb(89 , 89 , 89) ; font-weight: normal ; font-style: normal ; text-decoration: none ; font-size: 10.5051px ; font-family: &amp;quot;lato&amp;quot; , &amp;quot;lato_embeddedfont&amp;quot; , &amp;quot;lato_msfontservice&amp;quot; , sans-serif ; letter-spacing: 0px ; line-height: 14px ; vertical-align: 0.139394px&quot;&gt;&lt;span class=&quot;NormalTextRun  BCX0 SCXP128183439&quot; style=&quot;margin: 0px ; padding: 0px ; vertical-align: -0.139394px ; line-height: 0px ; position: relative&quot;&gt;Los alumnos pueden examinarse libremente de cualquiera de las materias impartidas en el&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;TextRun  BCX0 SCXP128183439&quot; lang=&quot;ES&quot; style=&quot;margin: 0px ; padding: 0px 0px 0.139394px ; font-variant: normal ; color: rgb(89 , 89 , 89) ; font-weight: normal ; font-style: normal ; text-decoration: none ; font-size: 10.5051px ; font-family: &amp;quot;lato&amp;quot; , &amp;quot;lato_embeddedfont&amp;quot; , &amp;quot;lato_msfontservice&amp;quot; , sans-serif ; letter-spacing: 0px ; line-height: 14px ; vertical-align: 0.139394px&quot;&gt;&lt;span class=&quot;NormalTextRun  BCX0 SCXP128183439&quot; style=&quot;margin: 0px ; padding: 0px ; vertical-align: -0.139394px ; line-height: 0px ; position: relative&quot;&gt;centro, pero solamente una vez.&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;EOP  BCX0 SCXP128183439&quot; style=&quot;margin: 0px ; padding: 0px ; font-size: 10.5051px ; line-height: 0px ; font-family: &amp;quot;lato&amp;quot; , &amp;quot;lato_embeddedfont&amp;quot; , &amp;quot;lato_msfontservice&amp;quot; , sans-serif&quot;&gt;​&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li class=&quot;OutlineElement Ltr  BCX0 SCXP128183439&quot; style=&quot;margin: 0px 0px 0px 29.0909px ; padding: 0px ; overflow: visible ; cursor: text ; clear: both ; position: relative ; direction: ltr ; vertical-align: baseline ; font-family: &amp;quot;arial&amp;quot; ; font-size: 8.40404px&quot;&gt;&lt;p class=&quot;Paragraph  BCX0 SCXP128183439&quot; lang=&quot;EN-US&quot; style=&quot;margin: 0px ; padding: 0px ; overflow-wrap: break-word ; font-weight: normal ; font-style: normal ; vertical-align: baseline ; background-color: transparent ; text-align: left ; text-indent: 0px&quot;&gt;&lt;span class=&quot;TextRun  BCX0 SCXP128183439&quot; lang=&quot;ES&quot; style=&quot;margin: 0px ; padding: 0px 0px 0.139394px ; font-variant: normal ; color: rgb(89 , 89 , 89) ; font-weight: normal ; font-style: normal ; text-decoration: none ; font-size: 10.5051px ; font-family: &amp;quot;lato&amp;quot; , &amp;quot;lato_embeddedfont&amp;quot; , &amp;quot;lato_msfontservice&amp;quot; , sans-serif ; letter-spacing: 0px ; line-height: 14px ; vertical-align: 0.139394px&quot;&gt;&lt;span class=&quot;NormalTextRun  BCX0 SCXP128183439&quot; style=&quot;margin: 0px ; padding: 0px ; vertical-align: -0.139394px ; line-height: 0px ; position: relative&quot;&gt;De los alumnos interesa conocer: su&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;SpellingError  BCX0 SCXP128183439&quot; style=&quot;margin: 0px ; padding: 0px ; background-repeat: repeat-x ; background-position: left bottom ; background-image: url(&amp;quot;data:image/gif;base64,R0lGODlhBQAEAJECAP////8AAAAAAAAAACH5BAEAAAIALAAAAAAFAAQAAAIIlGAXCCHrTCgAOw==&amp;quot;) ; border-bottom: 1px solid transparent ; vertical-align: -0.139394px ; line-height: 0px ; position: relative&quot;&gt;nº&lt;/span&gt;&lt;span class=&quot;NormalTextRun  BCX0 SCXP128183439&quot; style=&quot;margin: 0px ; padding: 0px ; vertical-align: -0.139394px ; line-height: 0px ; position: relative&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;de matrícula, su DNI, las materias de las que se han&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;TextRun  BCX0 SCXP128183439&quot; lang=&quot;ES&quot; style=&quot;margin: 0px ; padding: 0px 0px 0.139394px ; font-variant: normal ; color: rgb(89 , 89 , 89) ; font-weight: normal ; font-style: normal ; text-decoration: none ; font-size: 10.5051px ; font-family: &amp;quot;lato&amp;quot; , &amp;quot;lato_embeddedfont&amp;quot; , &amp;quot;lato_msfontservice&amp;quot; , sans-serif ; letter-spacing: 0px ; line-height: 14px ; vertical-align: 0.139394px&quot;&gt;&lt;span class=&quot;NormalTextRun  BCX0 SCXP128183439&quot; style=&quot;margin: 0px ; padding: 0px ; vertical-align: -0.139394px ; line-height: 0px ; position: relative&quot;&gt;examinado, las fechas en que lo han hecho y la nota que han obtenido&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;EOP  BCX0 SCXP128183439&quot; style=&quot;margin: 0px ; padding: 0px ; font-size: 10.5051px ; line-height: 0px ; font-family: &amp;quot;lato&amp;quot; , &amp;quot;lato_embeddedfont&amp;quot; , &amp;quot;lato_msfontservice&amp;quot; , sans-serif&quot;&gt;​&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" width="550" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="DrNs6gQKJGRa-lBKC4WQ-4" target="DrNs6gQKJGRa-lBKC4WQ-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="725" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="DrNs6gQKJGRa-lBKC4WQ-4" target="DrNs6gQKJGRa-lBKC4WQ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-4" value="Departamento" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="795" y="50" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="DrNs6gQKJGRa-lBKC4WQ-7" target="DrNs6gQKJGRa-lBKC4WQ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="DrNs6gQKJGRa-lBKC4WQ-7" target="DrNs6gQKJGRa-lBKC4WQ-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-7" value="Materia" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="795" y="290" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="DrNs6gQKJGRa-lBKC4WQ-8" target="DrNs6gQKJGRa-lBKC4WQ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-11" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DrNs6gQKJGRa-lBKC4WQ-9">
+          <mxGeometry x="0.5429" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="DrNs6gQKJGRa-lBKC4WQ-8" target="DrNs6gQKJGRa-lBKC4WQ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-17" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DrNs6gQKJGRa-lBKC4WQ-10">
+          <mxGeometry x="0.4857" y="2" relative="1" as="geometry">
+            <mxPoint x="8" y="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-8" value="Impartida por" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="785" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-12" value="Código" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="625" y="50" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-13" value="Nombre" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="625" y="100" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-15" value="Código" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="635" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-16" value="Nombre" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="635" y="290" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="DrNs6gQKJGRa-lBKC4WQ-21" target="DrNs6gQKJGRa-lBKC4WQ-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="DrNs6gQKJGRa-lBKC4WQ-21" target="DrNs6gQKJGRa-lBKC4WQ-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-21" value="Alumno" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1225" y="290" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="DrNs6gQKJGRa-lBKC4WQ-22" target="DrNs6gQKJGRa-lBKC4WQ-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-30" value="M" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DrNs6gQKJGRa-lBKC4WQ-23">
+          <mxGeometry x="0.8333" relative="1" as="geometry">
+            <mxPoint x="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="DrNs6gQKJGRa-lBKC4WQ-22" target="DrNs6gQKJGRa-lBKC4WQ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-29" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DrNs6gQKJGRa-lBKC4WQ-24">
+          <mxGeometry x="0.6182" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-22" value="Se examina de" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1005" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-25" value="#Matrícula" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="1375" y="270" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-26" value="DNI" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1375" y="330" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DrNs6gQKJGRa-lBKC4WQ-31" target="DrNs6gQKJGRa-lBKC4WQ-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-31" value="Fecha" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="965" y="150" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="DrNs6gQKJGRa-lBKC4WQ-32" target="DrNs6gQKJGRa-lBKC4WQ-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-32" value="Nota" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1115" y="150" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-36" value="No puedo modelar que dado un Alumno sólo pueda examinarse una vez de una materia. En el modelo físico implementaré esta restricción." style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="995" y="10" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="DrNs6gQKJGRa-lBKC4WQ-75" target="DrNs6gQKJGRa-lBKC4WQ-84">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="DrNs6gQKJGRa-lBKC4WQ-75" target="DrNs6gQKJGRa-lBKC4WQ-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-75" value="Departamento" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="780" y="700" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="DrNs6gQKJGRa-lBKC4WQ-78" target="DrNs6gQKJGRa-lBKC4WQ-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="DrNs6gQKJGRa-lBKC4WQ-78" target="DrNs6gQKJGRa-lBKC4WQ-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-78" value="Materia" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="780" y="940" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="DrNs6gQKJGRa-lBKC4WQ-83" target="DrNs6gQKJGRa-lBKC4WQ-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-80" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DrNs6gQKJGRa-lBKC4WQ-79">
+          <mxGeometry x="0.5429" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="DrNs6gQKJGRa-lBKC4WQ-83" target="DrNs6gQKJGRa-lBKC4WQ-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-82" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DrNs6gQKJGRa-lBKC4WQ-81">
+          <mxGeometry x="0.4857" y="2" relative="1" as="geometry">
+            <mxPoint x="8" y="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-83" value="Impartida por" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="770" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-84" value="Código" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="610" y="700" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-85" value="Nombre" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="610" y="750" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-86" value="Código" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="620" y="890" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-87" value="Nombre" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="620" y="940" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="DrNs6gQKJGRa-lBKC4WQ-90" target="DrNs6gQKJGRa-lBKC4WQ-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="DrNs6gQKJGRa-lBKC4WQ-90" target="DrNs6gQKJGRa-lBKC4WQ-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-90" value="Alumno" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="940" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="DrNs6gQKJGRa-lBKC4WQ-95" target="DrNs6gQKJGRa-lBKC4WQ-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-92" value="M" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DrNs6gQKJGRa-lBKC4WQ-91">
+          <mxGeometry x="0.8333" relative="1" as="geometry">
+            <mxPoint x="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="DrNs6gQKJGRa-lBKC4WQ-95" target="DrNs6gQKJGRa-lBKC4WQ-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-94" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DrNs6gQKJGRa-lBKC4WQ-93">
+          <mxGeometry x="0.6182" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-95" value="Se examina de" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="990" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-96" value="#Matrícula" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="920" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-97" value="DNI" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="980" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="DrNs6gQKJGRa-lBKC4WQ-99" target="DrNs6gQKJGRa-lBKC4WQ-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-99" value="Fecha" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="1060" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="DrNs6gQKJGRa-lBKC4WQ-101" target="DrNs6gQKJGRa-lBKC4WQ-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-101" value="Nota" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="820" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="DrNs6gQKJGRa-lBKC4WQ-104" target="DrNs6gQKJGRa-lBKC4WQ-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-105" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DrNs6gQKJGRa-lBKC4WQ-103">
+          <mxGeometry x="-0.6629" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DrNs6gQKJGRa-lBKC4WQ-104" value="Examen" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="1060" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Copy of Page-1" id="1Sj1qMMjYUjUzIJMMbC3">
+    <mxGraphModel dx="1066" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+      <root>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-0" />
+        <mxCell id="2YRkMeel7js5OWUPUbDA-1" parent="2YRkMeel7js5OWUPUbDA-0" />
+        <mxCell id="2YRkMeel7js5OWUPUbDA-2" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div class=&quot;OutlineElement Ltr  BCX0 SCXP128183439&quot; style=&quot;margin: 0px; padding: 0px; overflow: visible; cursor: text; clear: both; position: relative; direction: ltr; color: rgb(26, 153, 136); font-family: arial; font-size: 8.40404px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(237, 235, 233);&quot;&gt;&lt;p class=&quot;Paragraph  BCX0 SCXP128183439&quot; lang=&quot;EN-US&quot; style=&quot;margin: 0px ; padding: 0px ; overflow-wrap: break-word ; font-weight: normal ; font-style: normal ; vertical-align: baseline ; background-color: transparent ; text-align: left ; text-indent: 0px&quot;&gt;&lt;span class=&quot;TextRun  BCX0 SCXP128183439&quot; lang=&quot;ES&quot; style=&quot;margin: 0px ; padding: 0px 0px 0.139394px ; font-variant: normal ; color: rgb(89 , 89 , 89) ; font-weight: normal ; font-style: normal ; text-decoration: none ; font-size: 10.5051px ; font-family: &amp;quot;lato&amp;quot; , &amp;quot;lato_embeddedfont&amp;quot; , &amp;quot;lato_msfontservice&amp;quot; , sans-serif ; letter-spacing: 0px ; line-height: 14px ; vertical-align: 0.139394px&quot;&gt;&lt;span class=&quot;NormalTextRun  BCX0 SCXP128183439&quot; style=&quot;margin: 0px ; padding: 0px ; vertical-align: -0.139394px ; line-height: 0px ; position: relative&quot;&gt;Un centro de enseñanza está organizado de la siguiente forma:&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;EOP  BCX0 SCXP128183439&quot; style=&quot;margin: 0px ; padding: 0px ; font-size: 10.5051px ; line-height: 0px ; font-family: &amp;quot;lato&amp;quot; , &amp;quot;lato_embeddedfont&amp;quot; , &amp;quot;lato_msfontservice&amp;quot; , sans-serif&quot;&gt;​&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;ul class=&quot;BulletListStyle1  BCX0 SCXP128183439&quot; style=&quot;margin: 0px; padding: 0px; overflow: visible; cursor: text; list-style-type: disc; font-family: verdana; color: rgb(26, 153, 136); font-size: 8.40404px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(237, 235, 233);&quot;&gt;&lt;li class=&quot;OutlineElement Ltr  BCX0 SCXP128183439&quot; style=&quot;margin: 0px 0px 0px 29.0909px ; padding: 0px ; overflow: visible ; cursor: text ; clear: both ; position: relative ; direction: ltr ; vertical-align: baseline ; font-family: &amp;quot;arial&amp;quot; ; font-size: 8.40404px&quot;&gt;&lt;p class=&quot;Paragraph  BCX0 SCXP128183439&quot; lang=&quot;EN-US&quot; style=&quot;margin: 0px ; padding: 0px ; overflow-wrap: break-word ; font-weight: normal ; font-style: normal ; vertical-align: baseline ; background-color: transparent ; text-align: left ; text-indent: 0px&quot;&gt;&lt;span class=&quot;TextRun  BCX0 SCXP128183439&quot; lang=&quot;ES&quot; style=&quot;margin: 0px ; padding: 0px 0px 0.139394px ; font-variant: normal ; color: rgb(89 , 89 , 89) ; font-weight: normal ; font-style: normal ; text-decoration: none ; font-size: 10.5051px ; font-family: &amp;quot;lato&amp;quot; , &amp;quot;lato_embeddedfont&amp;quot; , &amp;quot;lato_msfontservice&amp;quot; , sans-serif ; letter-spacing: 0px ; line-height: 14px ; vertical-align: 0.139394px&quot;&gt;&lt;span class=&quot;NormalTextRun  BCX0 SCXP128183439&quot; style=&quot;margin: 0px ; padding: 0px ; vertical-align: -0.139394px ; line-height: 0px ; position: relative&quot;&gt;Existen diferentes departamentos. Cada uno de ellos tiene un nombre diferente.&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;EOP  BCX0 SCXP128183439&quot; style=&quot;margin: 0px ; padding: 0px ; font-size: 10.5051px ; line-height: 0px ; font-family: &amp;quot;lato&amp;quot; , &amp;quot;lato_embeddedfont&amp;quot; , &amp;quot;lato_msfontservice&amp;quot; , sans-serif&quot;&gt;​&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li class=&quot;OutlineElement Ltr  BCX0 SCXP128183439&quot; style=&quot;margin: 0px 0px 0px 29.0909px ; padding: 0px ; overflow: visible ; cursor: text ; clear: both ; position: relative ; direction: ltr ; vertical-align: baseline ; font-family: &amp;quot;arial&amp;quot; ; font-size: 8.40404px&quot;&gt;&lt;p class=&quot;Paragraph  BCX0 SCXP128183439&quot; lang=&quot;EN-US&quot; style=&quot;margin: 0px ; padding: 0px ; overflow-wrap: break-word ; font-weight: normal ; font-style: normal ; vertical-align: baseline ; background-color: transparent ; text-align: left ; text-indent: 0px&quot;&gt;&lt;span class=&quot;TextRun  BCX0 SCXP128183439&quot; lang=&quot;ES&quot; style=&quot;margin: 0px ; padding: 0px 0px 0.139394px ; font-variant: normal ; color: rgb(89 , 89 , 89) ; font-weight: normal ; font-style: normal ; text-decoration: none ; font-size: 10.5051px ; font-family: &amp;quot;lato&amp;quot; , &amp;quot;lato_embeddedfont&amp;quot; , &amp;quot;lato_msfontservice&amp;quot; , sans-serif ; letter-spacing: 0px ; line-height: 14px ; vertical-align: 0.139394px&quot;&gt;&lt;span class=&quot;NormalTextRun  BCX0 SCXP128183439&quot; style=&quot;margin: 0px ; padding: 0px ; vertical-align: -0.139394px ; line-height: 0px ; position: relative&quot;&gt;Se imparten diversas materias. Cada materia es impartida por un determinado departamento.&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;EOP  BCX0 SCXP128183439&quot; style=&quot;margin: 0px ; padding: 0px ; font-size: 10.5051px ; line-height: 0px ; font-family: &amp;quot;lato&amp;quot; , &amp;quot;lato_embeddedfont&amp;quot; , &amp;quot;lato_msfontservice&amp;quot; , sans-serif&quot;&gt;​&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li class=&quot;OutlineElement Ltr  BCX0 SCXP128183439&quot; style=&quot;margin: 0px 0px 0px 29.0909px ; padding: 0px ; overflow: visible ; cursor: text ; clear: both ; position: relative ; direction: ltr ; vertical-align: baseline ; font-family: &amp;quot;arial&amp;quot; ; font-size: 8.40404px&quot;&gt;&lt;p class=&quot;Paragraph  BCX0 SCXP128183439&quot; lang=&quot;EN-US&quot; style=&quot;margin: 0px ; padding: 0px ; overflow-wrap: break-word ; font-weight: normal ; font-style: normal ; vertical-align: baseline ; background-color: transparent ; text-align: left ; text-indent: 0px&quot;&gt;&lt;span class=&quot;TextRun  BCX0 SCXP128183439&quot; lang=&quot;ES&quot; style=&quot;margin: 0px ; padding: 0px 0px 0.139394px ; font-variant: normal ; color: rgb(89 , 89 , 89) ; font-weight: normal ; font-style: normal ; text-decoration: none ; font-size: 10.5051px ; font-family: &amp;quot;lato&amp;quot; , &amp;quot;lato_embeddedfont&amp;quot; , &amp;quot;lato_msfontservice&amp;quot; , sans-serif ; letter-spacing: 0px ; line-height: 14px ; vertical-align: 0.139394px&quot;&gt;&lt;span class=&quot;NormalTextRun  BCX0 SCXP128183439&quot; style=&quot;margin: 0px ; padding: 0px ; vertical-align: -0.139394px ; line-height: 0px ; position: relative&quot;&gt;De cada departamento interesa saber: su código, su nombre y las materias que imparte.&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;EOP  BCX0 SCXP128183439&quot; style=&quot;margin: 0px ; padding: 0px ; font-size: 10.5051px ; line-height: 0px ; font-family: &amp;quot;lato&amp;quot; , &amp;quot;lato_embeddedfont&amp;quot; , &amp;quot;lato_msfontservice&amp;quot; , sans-serif&quot;&gt;​&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li class=&quot;OutlineElement Ltr  BCX0 SCXP128183439&quot; style=&quot;margin: 0px 0px 0px 29.0909px ; padding: 0px ; overflow: visible ; cursor: text ; clear: both ; position: relative ; direction: ltr ; vertical-align: baseline ; font-family: &amp;quot;arial&amp;quot; ; font-size: 8.40404px&quot;&gt;&lt;p class=&quot;Paragraph  BCX0 SCXP128183439&quot; lang=&quot;EN-US&quot; style=&quot;margin: 0px ; padding: 0px ; overflow-wrap: break-word ; font-weight: normal ; font-style: normal ; vertical-align: baseline ; background-color: transparent ; text-align: left ; text-indent: 0px&quot;&gt;&lt;span class=&quot;TextRun  BCX0 SCXP128183439&quot; lang=&quot;ES&quot; style=&quot;margin: 0px ; padding: 0px 0px 0.139394px ; font-variant: normal ; color: rgb(89 , 89 , 89) ; font-weight: normal ; font-style: normal ; text-decoration: none ; font-size: 10.5051px ; font-family: &amp;quot;lato&amp;quot; , &amp;quot;lato_embeddedfont&amp;quot; , &amp;quot;lato_msfontservice&amp;quot; , sans-serif ; letter-spacing: 0px ; line-height: 14px ; vertical-align: 0.139394px&quot;&gt;&lt;span class=&quot;NormalTextRun  BCX0 SCXP128183439&quot; style=&quot;margin: 0px ; padding: 0px ; vertical-align: -0.139394px ; line-height: 0px ; position: relative&quot;&gt;De cada materia interesa saber: su código, su nombre (puede haber nombres repetidos), el&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;TextRun  BCX0 SCXP128183439&quot; lang=&quot;ES&quot; style=&quot;margin: 0px ; padding: 0px 0px 0.139394px ; font-variant: normal ; color: rgb(89 , 89 , 89) ; font-weight: normal ; font-style: normal ; text-decoration: none ; font-size: 10.5051px ; font-family: &amp;quot;lato&amp;quot; , &amp;quot;lato_embeddedfont&amp;quot; , &amp;quot;lato_msfontservice&amp;quot; , sans-serif ; letter-spacing: 0px ; line-height: 14px ; vertical-align: 0.139394px&quot;&gt;&lt;span class=&quot;NormalTextRun  BCX0 SCXP128183439&quot; style=&quot;margin: 0px ; padding: 0px ; vertical-align: -0.139394px ; line-height: 0px ; position: relative&quot;&gt;departamento que la imparte y qué alumnos se han examinado alguna vez de ella.&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;EOP  BCX0 SCXP128183439&quot; style=&quot;margin: 0px ; padding: 0px ; font-size: 10.5051px ; line-height: 0px ; font-family: &amp;quot;lato&amp;quot; , &amp;quot;lato_embeddedfont&amp;quot; , &amp;quot;lato_msfontservice&amp;quot; , sans-serif&quot;&gt;​&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li class=&quot;OutlineElement Ltr  BCX0 SCXP128183439&quot; style=&quot;margin: 0px 0px 0px 29.0909px ; padding: 0px ; overflow: visible ; cursor: text ; clear: both ; position: relative ; direction: ltr ; vertical-align: baseline ; font-family: &amp;quot;arial&amp;quot; ; font-size: 8.40404px&quot;&gt;&lt;p class=&quot;Paragraph  BCX0 SCXP128183439&quot; lang=&quot;EN-US&quot; style=&quot;margin: 0px ; padding: 0px ; overflow-wrap: break-word ; font-weight: normal ; font-style: normal ; vertical-align: baseline ; background-color: transparent ; text-align: left ; text-indent: 0px&quot;&gt;&lt;span class=&quot;TextRun  BCX0 SCXP128183439&quot; lang=&quot;ES&quot; style=&quot;margin: 0px ; padding: 0px 0px 0.139394px ; font-variant: normal ; color: rgb(89 , 89 , 89) ; font-weight: normal ; font-style: normal ; text-decoration: none ; font-size: 10.5051px ; font-family: &amp;quot;lato&amp;quot; , &amp;quot;lato_embeddedfont&amp;quot; , &amp;quot;lato_msfontservice&amp;quot; , sans-serif ; letter-spacing: 0px ; line-height: 14px ; vertical-align: 0.139394px&quot;&gt;&lt;span class=&quot;NormalTextRun  BCX0 SCXP128183439&quot; style=&quot;margin: 0px ; padding: 0px ; vertical-align: -0.139394px ; line-height: 0px ; position: relative&quot;&gt;Los alumnos se identifican mediante su número de matrícula.&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;EOP  BCX0 SCXP128183439&quot; style=&quot;margin: 0px ; padding: 0px ; font-size: 10.5051px ; line-height: 0px ; font-family: &amp;quot;lato&amp;quot; , &amp;quot;lato_embeddedfont&amp;quot; , &amp;quot;lato_msfontservice&amp;quot; , sans-serif&quot;&gt;​&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li class=&quot;OutlineElement Ltr  BCX0 SCXP128183439&quot; style=&quot;margin: 0px 0px 0px 29.0909px ; padding: 0px ; overflow: visible ; cursor: text ; clear: both ; position: relative ; direction: ltr ; vertical-align: baseline ; font-family: &amp;quot;arial&amp;quot; ; font-size: 8.40404px&quot;&gt;&lt;p class=&quot;Paragraph  BCX0 SCXP128183439&quot; lang=&quot;EN-US&quot; style=&quot;margin: 0px ; padding: 0px ; overflow-wrap: break-word ; font-weight: normal ; font-style: normal ; vertical-align: baseline ; background-color: transparent ; text-align: left ; text-indent: 0px&quot;&gt;&lt;span class=&quot;TextRun  BCX0 SCXP128183439&quot; lang=&quot;ES&quot; style=&quot;margin: 0px ; padding: 0px 0px 0.139394px ; font-variant: normal ; color: rgb(89 , 89 , 89) ; font-weight: normal ; font-style: normal ; text-decoration: none ; font-size: 10.5051px ; font-family: &amp;quot;lato&amp;quot; , &amp;quot;lato_embeddedfont&amp;quot; , &amp;quot;lato_msfontservice&amp;quot; , sans-serif ; letter-spacing: 0px ; line-height: 14px ; vertical-align: 0.139394px&quot;&gt;&lt;span class=&quot;NormalTextRun  BCX0 SCXP128183439&quot; style=&quot;margin: 0px ; padding: 0px ; vertical-align: -0.139394px ; line-height: 0px ; position: relative&quot;&gt;Los alumnos pueden examinarse libremente de cualquiera de las materias impartidas en el&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;TextRun  BCX0 SCXP128183439&quot; lang=&quot;ES&quot; style=&quot;margin: 0px ; padding: 0px 0px 0.139394px ; font-variant: normal ; color: rgb(89 , 89 , 89) ; font-weight: normal ; font-style: normal ; text-decoration: none ; font-size: 10.5051px ; font-family: &amp;quot;lato&amp;quot; , &amp;quot;lato_embeddedfont&amp;quot; , &amp;quot;lato_msfontservice&amp;quot; , sans-serif ; letter-spacing: 0px ; line-height: 14px ; vertical-align: 0.139394px&quot;&gt;&lt;span class=&quot;NormalTextRun  BCX0 SCXP128183439&quot; style=&quot;margin: 0px ; padding: 0px ; vertical-align: -0.139394px ; line-height: 0px ; position: relative&quot;&gt;centro, pero solamente una vez.&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;EOP  BCX0 SCXP128183439&quot; style=&quot;margin: 0px ; padding: 0px ; font-size: 10.5051px ; line-height: 0px ; font-family: &amp;quot;lato&amp;quot; , &amp;quot;lato_embeddedfont&amp;quot; , &amp;quot;lato_msfontservice&amp;quot; , sans-serif&quot;&gt;​&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li class=&quot;OutlineElement Ltr  BCX0 SCXP128183439&quot; style=&quot;margin: 0px 0px 0px 29.0909px ; padding: 0px ; overflow: visible ; cursor: text ; clear: both ; position: relative ; direction: ltr ; vertical-align: baseline ; font-family: &amp;quot;arial&amp;quot; ; font-size: 8.40404px&quot;&gt;&lt;p class=&quot;Paragraph  BCX0 SCXP128183439&quot; lang=&quot;EN-US&quot; style=&quot;margin: 0px ; padding: 0px ; overflow-wrap: break-word ; font-weight: normal ; font-style: normal ; vertical-align: baseline ; background-color: transparent ; text-align: left ; text-indent: 0px&quot;&gt;&lt;span class=&quot;TextRun  BCX0 SCXP128183439&quot; lang=&quot;ES&quot; style=&quot;margin: 0px ; padding: 0px 0px 0.139394px ; font-variant: normal ; color: rgb(89 , 89 , 89) ; font-weight: normal ; font-style: normal ; text-decoration: none ; font-size: 10.5051px ; font-family: &amp;quot;lato&amp;quot; , &amp;quot;lato_embeddedfont&amp;quot; , &amp;quot;lato_msfontservice&amp;quot; , sans-serif ; letter-spacing: 0px ; line-height: 14px ; vertical-align: 0.139394px&quot;&gt;&lt;span class=&quot;NormalTextRun  BCX0 SCXP128183439&quot; style=&quot;margin: 0px ; padding: 0px ; vertical-align: -0.139394px ; line-height: 0px ; position: relative&quot;&gt;De los alumnos interesa conocer: su&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;SpellingError  BCX0 SCXP128183439&quot; style=&quot;margin: 0px ; padding: 0px ; background-repeat: repeat-x ; background-position: left bottom ; background-image: url(&amp;quot;data:image/gif;base64,R0lGODlhBQAEAJECAP////8AAAAAAAAAACH5BAEAAAIALAAAAAAFAAQAAAIIlGAXCCHrTCgAOw==&amp;quot;) ; border-bottom: 1px solid transparent ; vertical-align: -0.139394px ; line-height: 0px ; position: relative&quot;&gt;nº&lt;/span&gt;&lt;span class=&quot;NormalTextRun  BCX0 SCXP128183439&quot; style=&quot;margin: 0px ; padding: 0px ; vertical-align: -0.139394px ; line-height: 0px ; position: relative&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;de matrícula, su DNI, las materias de las que se han&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;TextRun  BCX0 SCXP128183439&quot; lang=&quot;ES&quot; style=&quot;margin: 0px ; padding: 0px 0px 0.139394px ; font-variant: normal ; color: rgb(89 , 89 , 89) ; font-weight: normal ; font-style: normal ; text-decoration: none ; font-size: 10.5051px ; font-family: &amp;quot;lato&amp;quot; , &amp;quot;lato_embeddedfont&amp;quot; , &amp;quot;lato_msfontservice&amp;quot; , sans-serif ; letter-spacing: 0px ; line-height: 14px ; vertical-align: 0.139394px&quot;&gt;&lt;span class=&quot;NormalTextRun  BCX0 SCXP128183439&quot; style=&quot;margin: 0px ; padding: 0px ; vertical-align: -0.139394px ; line-height: 0px ; position: relative&quot;&gt;examinado, las fechas en que lo han hecho y la nota que han obtenido&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;EOP  BCX0 SCXP128183439&quot; style=&quot;margin: 0px ; padding: 0px ; font-size: 10.5051px ; line-height: 0px ; font-family: &amp;quot;lato&amp;quot; , &amp;quot;lato_embeddedfont&amp;quot; , &amp;quot;lato_msfontservice&amp;quot; , sans-serif&quot;&gt;​&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="2YRkMeel7js5OWUPUbDA-1">
+          <mxGeometry x="60" width="550" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="2YRkMeel7js5OWUPUbDA-1" source="2YRkMeel7js5OWUPUbDA-5" target="2YRkMeel7js5OWUPUbDA-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="725" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="2YRkMeel7js5OWUPUbDA-1" source="2YRkMeel7js5OWUPUbDA-5" target="2YRkMeel7js5OWUPUbDA-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-5" value="Departamento" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="2YRkMeel7js5OWUPUbDA-1">
+          <mxGeometry x="795" y="50" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="2YRkMeel7js5OWUPUbDA-1" source="2YRkMeel7js5OWUPUbDA-8" target="2YRkMeel7js5OWUPUbDA-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="2YRkMeel7js5OWUPUbDA-1" source="2YRkMeel7js5OWUPUbDA-8" target="2YRkMeel7js5OWUPUbDA-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-8" value="Materia" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="2YRkMeel7js5OWUPUbDA-1">
+          <mxGeometry x="795" y="290" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="2YRkMeel7js5OWUPUbDA-1" source="2YRkMeel7js5OWUPUbDA-13" target="2YRkMeel7js5OWUPUbDA-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-10" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2YRkMeel7js5OWUPUbDA-9">
+          <mxGeometry x="0.5429" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="2YRkMeel7js5OWUPUbDA-1" source="2YRkMeel7js5OWUPUbDA-13" target="2YRkMeel7js5OWUPUbDA-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-12" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2YRkMeel7js5OWUPUbDA-11">
+          <mxGeometry x="0.4857" y="2" relative="1" as="geometry">
+            <mxPoint x="8" y="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-13" value="Impartida por" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="2YRkMeel7js5OWUPUbDA-1">
+          <mxGeometry x="785" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-14" value="Código" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="2YRkMeel7js5OWUPUbDA-1">
+          <mxGeometry x="625" y="50" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-15" value="Nombre" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="2YRkMeel7js5OWUPUbDA-1">
+          <mxGeometry x="625" y="100" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-16" value="Código" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="2YRkMeel7js5OWUPUbDA-1">
+          <mxGeometry x="635" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-17" value="Nombre" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="2YRkMeel7js5OWUPUbDA-1">
+          <mxGeometry x="635" y="290" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="2YRkMeel7js5OWUPUbDA-1" source="2YRkMeel7js5OWUPUbDA-20" target="2YRkMeel7js5OWUPUbDA-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="2YRkMeel7js5OWUPUbDA-1" source="2YRkMeel7js5OWUPUbDA-20" target="2YRkMeel7js5OWUPUbDA-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-20" value="Alumno" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="2YRkMeel7js5OWUPUbDA-1">
+          <mxGeometry x="1225" y="290" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="2YRkMeel7js5OWUPUbDA-1" source="2YRkMeel7js5OWUPUbDA-25" target="2YRkMeel7js5OWUPUbDA-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-22" value="M" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2YRkMeel7js5OWUPUbDA-21">
+          <mxGeometry x="0.8333" relative="1" as="geometry">
+            <mxPoint x="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="2YRkMeel7js5OWUPUbDA-1" source="2YRkMeel7js5OWUPUbDA-25" target="2YRkMeel7js5OWUPUbDA-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-24" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2YRkMeel7js5OWUPUbDA-23">
+          <mxGeometry x="0.6182" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-25" value="Se examina de" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="2YRkMeel7js5OWUPUbDA-1">
+          <mxGeometry x="1005" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-26" value="#Matrícula" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="2YRkMeel7js5OWUPUbDA-1">
+          <mxGeometry x="1375" y="270" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-27" value="DNI" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="2YRkMeel7js5OWUPUbDA-1">
+          <mxGeometry x="1375" y="330" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="2YRkMeel7js5OWUPUbDA-1" source="2YRkMeel7js5OWUPUbDA-29" target="2YRkMeel7js5OWUPUbDA-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-29" value="Fecha" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="2YRkMeel7js5OWUPUbDA-1">
+          <mxGeometry x="965" y="150" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="2YRkMeel7js5OWUPUbDA-1" source="2YRkMeel7js5OWUPUbDA-31" target="2YRkMeel7js5OWUPUbDA-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-31" value="Nota" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="2YRkMeel7js5OWUPUbDA-1">
+          <mxGeometry x="1115" y="150" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-32" value="No puedo modelar que dado un Alumno sólo pueda examinarse una vez de una materia. En el modelo físico implementaré esta restricción." style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="2YRkMeel7js5OWUPUbDA-1">
+          <mxGeometry x="995" y="10" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="2YRkMeel7js5OWUPUbDA-1" source="2YRkMeel7js5OWUPUbDA-35" target="2YRkMeel7js5OWUPUbDA-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="2YRkMeel7js5OWUPUbDA-1" source="2YRkMeel7js5OWUPUbDA-35" target="2YRkMeel7js5OWUPUbDA-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-35" value="Departamento" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="2YRkMeel7js5OWUPUbDA-1">
+          <mxGeometry x="780" y="700" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="2YRkMeel7js5OWUPUbDA-1" source="2YRkMeel7js5OWUPUbDA-38" target="2YRkMeel7js5OWUPUbDA-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="2YRkMeel7js5OWUPUbDA-1" source="2YRkMeel7js5OWUPUbDA-38" target="2YRkMeel7js5OWUPUbDA-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-38" value="Materia" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="2YRkMeel7js5OWUPUbDA-1">
+          <mxGeometry x="780" y="940" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="2YRkMeel7js5OWUPUbDA-1" source="2YRkMeel7js5OWUPUbDA-43" target="2YRkMeel7js5OWUPUbDA-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-40" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2YRkMeel7js5OWUPUbDA-39">
+          <mxGeometry x="0.5429" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="2YRkMeel7js5OWUPUbDA-1" source="2YRkMeel7js5OWUPUbDA-43" target="2YRkMeel7js5OWUPUbDA-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-42" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2YRkMeel7js5OWUPUbDA-41">
+          <mxGeometry x="0.4857" y="2" relative="1" as="geometry">
+            <mxPoint x="8" y="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-43" value="Impartida por" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="2YRkMeel7js5OWUPUbDA-1">
+          <mxGeometry x="770" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-44" value="Código" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="2YRkMeel7js5OWUPUbDA-1">
+          <mxGeometry x="610" y="700" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-45" value="Nombre" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="2YRkMeel7js5OWUPUbDA-1">
+          <mxGeometry x="610" y="750" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-46" value="Código" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="2YRkMeel7js5OWUPUbDA-1">
+          <mxGeometry x="620" y="890" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-47" value="Nombre" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="2YRkMeel7js5OWUPUbDA-1">
+          <mxGeometry x="620" y="940" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="2YRkMeel7js5OWUPUbDA-1" source="2YRkMeel7js5OWUPUbDA-50" target="2YRkMeel7js5OWUPUbDA-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="2YRkMeel7js5OWUPUbDA-1" source="2YRkMeel7js5OWUPUbDA-50" target="2YRkMeel7js5OWUPUbDA-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-50" value="Alumno" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="2YRkMeel7js5OWUPUbDA-1">
+          <mxGeometry x="1210" y="940" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="2YRkMeel7js5OWUPUbDA-1" source="2YRkMeel7js5OWUPUbDA-55" target="2YRkMeel7js5OWUPUbDA-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-52" value="M" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2YRkMeel7js5OWUPUbDA-51">
+          <mxGeometry x="0.8333" relative="1" as="geometry">
+            <mxPoint x="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="2YRkMeel7js5OWUPUbDA-1" source="2YRkMeel7js5OWUPUbDA-55" target="2YRkMeel7js5OWUPUbDA-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-54" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2YRkMeel7js5OWUPUbDA-53">
+          <mxGeometry x="0.6182" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-55" value="Se examina de" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="2YRkMeel7js5OWUPUbDA-1">
+          <mxGeometry x="990" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-56" value="#Matrícula" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="2YRkMeel7js5OWUPUbDA-1">
+          <mxGeometry x="1360" y="920" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-57" value="DNI" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="2YRkMeel7js5OWUPUbDA-1">
+          <mxGeometry x="1360" y="980" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="2YRkMeel7js5OWUPUbDA-1" source="2YRkMeel7js5OWUPUbDA-59" target="2YRkMeel7js5OWUPUbDA-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-59" value="Fecha" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="2YRkMeel7js5OWUPUbDA-1">
+          <mxGeometry x="1170" y="1080" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="2YRkMeel7js5OWUPUbDA-1" source="2YRkMeel7js5OWUPUbDA-61" target="2YRkMeel7js5OWUPUbDA-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-61" value="Nota" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="2YRkMeel7js5OWUPUbDA-1">
+          <mxGeometry x="1100" y="820" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="2YRkMeel7js5OWUPUbDA-1" source="2YRkMeel7js5OWUPUbDA-64" target="2YRkMeel7js5OWUPUbDA-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-63" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2YRkMeel7js5OWUPUbDA-62">
+          <mxGeometry x="-0.6629" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-64" value="Examen" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="2YRkMeel7js5OWUPUbDA-1">
+          <mxGeometry x="1000" y="1060" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="2YRkMeel7js5OWUPUbDA-1" source="2YRkMeel7js5OWUPUbDA-65" target="2YRkMeel7js5OWUPUbDA-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2YRkMeel7js5OWUPUbDA-65" value="Código" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="2YRkMeel7js5OWUPUbDA-1">
+          <mxGeometry x="1170" y="1030" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
